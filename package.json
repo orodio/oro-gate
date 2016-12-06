@@ -1,0 +1,9 @@
+{
+  "name": "oro-gate",
+  "version": "1.0.0",
+  "description": "reusable progression lock",
+  "main": "index.js",
+  "repository": "github.com/orodio/oro-gate",
+  "author": "orodio",
+  "license": "MIT"
+}
